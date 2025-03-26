@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Tengo 21 años (casi 22) y soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando mi segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
+<p align="left">Tengo 21 años (casi 22) y soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando el segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
 
 ###
 
