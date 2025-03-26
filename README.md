@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hola, soy David y bienvenido a mi GitHub personal</h1>
+<h1 align="center">Hola👋, bienvenido a mi GitHub</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando mi segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
+<p align="left">Me llamo David (eso está más que claro), tengo 21 años y soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando el segundo y ultimo año de DAW<br>- ⚡ Estoy en proceso de aprender nuevas tecnologías de programación</p>
 
 ###
 
