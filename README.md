@@ -1,18 +1,18 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://es.linkedin.com/in/david-l%C3%B3pez-mirasierra-680b4a343">
+  <a href="https://es.linkedin.com/in/david-l%C3%B3pez-mirasierra-680b4a343" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hola, bienvenido a mi GitHub personal</h1>
+<h1 align="center">Hola, soy David y bienvenido a mi GitHub personal</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Tengo 21 años (casi 22) y soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando el segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
+<p align="left">Soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando mi segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
 
 ###
 
