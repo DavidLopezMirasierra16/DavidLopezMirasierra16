@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hola👋, bienvenido a mi GitHub</h1>
+<h1 align="center">Hola👋, bienvenido a mi GitHub personal</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Me llamo David (eso está más que claro), tengo 21 años y soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando el segundo y ultimo año de DAW<br>- ⚡ Estoy en proceso de aprender nuevas tecnologías de programación</p>
+<p align="left">Soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando mi segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
 
 ###
 
@@ -44,6 +44,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+</div>
+
+###
+
+<h3 align="left">💻 Herramientas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
 ###
