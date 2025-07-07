@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Estoy terminando mi segundo y ultimo curso de DAW<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
+<p align="left">Soy de Alcorcón, una pequeña ciudad al sur de Madrid<br><br>- 📚 Desarrollador de Aplicaciones Web<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
 
 ###
 
