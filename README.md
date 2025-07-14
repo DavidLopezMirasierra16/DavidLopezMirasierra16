@@ -20,7 +20,15 @@
 
 ###
 
-<p align="left">- 📚 Desarrollador de Aplicaciones Web<br>- ⚡ En proceso de aprender nuevas tecnologías de programación</p>
+<p align="left">Soy Desarrollador de Aplicaciones Web con formación técnica y una gran pasión por crear soluciones útiles, eficientes y bien estructuradas. Trabajo con tecnologías como .NET, Laravel, React, Java, PHP, C# y JavaScript, y me encanta aprender cosas nuevas y aplicarlas en proyectos reales.</p>
+
+###
+
+<h3 align="left">🚀 ¿Qué me gusta hacer?</h3>
+
+###
+
+<p align="left">- Construir aplicaciones web funcionales desde cero<br><br>- Diseñar e integrar APIs REST<br><br>- Trabajar con bases de datos relacionales como MySQL y SQL Server<br><br>- Usar herramientas modernas como Postman, Git, Figma y metodologías ágiles como Kanban</p>
 
 ###
 
