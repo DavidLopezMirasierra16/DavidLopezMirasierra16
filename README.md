@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy Desarrollador de Aplicaciones Web con formación técnica y una gran pasión por crear soluciones útiles, eficientes y bien estructuradas. Trabajo con tecnologías como .NET, Laravel, React, Java, PHP, C#, JavaScript y TypeScript , me apasiona aprender cosas nuevas y aplicarlas en proyectos reales.</p>
+<p align="left">Soy Desarrollador de Aplicaciones Web con formación técnica y una gran pasión por crear soluciones útiles, eficientes y bien estructuradas. Trabajo con tecnologías como .NET, Ext.NET, Laravel, React, Java, PHP, C#, JavaScript y TypeScript , me apasiona aprender cosas nuevas y aplicarlas en proyectos reales.</p>
 
 ###
 
